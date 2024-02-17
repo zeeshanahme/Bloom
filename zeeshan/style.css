@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first_Section{
+    background-color: rgb(197, 197, 197);
+}
+button{
+    background-color: orange;
+    border: 2px solid;
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+}
+.navbar{
+    background-color: gray !important;
+}
